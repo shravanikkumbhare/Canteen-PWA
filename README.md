@@ -1,2 +1,1 @@
-# Canteen-PWA
-Canteen Progressive Web App for Android users
+# Smart Canteen App
